@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strukt DZ", "Strukt DZ\Strukt DZ.csproj", "{0FF71FC7-C042-40DF-AA64-5E7007921AF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF71FC7-C042-40DF-AA64-5E7007921AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF71FC7-C042-40DF-AA64-5E7007921AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF71FC7-C042-40DF-AA64-5E7007921AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF71FC7-C042-40DF-AA64-5E7007921AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D24F7BB-DAF2-4573-A8E7-1CB12A268B77}
+	EndGlobalSection
+EndGlobal
